@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4KF91
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Cumpute science
+- 🌱 I’m currently learning Compute science
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me ggrenho.91@gmail.com
 - 😄 Pronouns: Parvo
